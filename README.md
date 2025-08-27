@@ -13,7 +13,7 @@ This project is an **Ai-powered research assistant** that leverages DeepSeek AI 
 
 ## Architecture
 
-![Overall Architecture](images/architecture_diagram.png)
+![Overall Architecture](Architecture_Diagram.png)
 
 *The diagram above shows the overall architecture of the Agentic AI Researcher system.*
 
